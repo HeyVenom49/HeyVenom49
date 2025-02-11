@@ -1,6 +1,6 @@
-<p align = center>
-# Random Dev Quote
-https : / /quotes - github- readme. vercel. app/api ?type=vetical&theme=radical)
+<p align="center">
+  # ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 </p>
 ---
 
