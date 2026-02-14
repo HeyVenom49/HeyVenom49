@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **a lot things**
 
-- 📝 I regularly write articles on [heyvenom-git-for-beginner.hashnode.dev](heyvenom-git-for-beginner.hashnode.dev)
+- 📝 I regularly write articles on [blog-heyvenom.hashnode.dev](blog-heyvenom.hashnode.dev)
 
 - 📫 How to reach me **durgeshpandey0831@gmail.com**
 
