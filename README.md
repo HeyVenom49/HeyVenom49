@@ -106,3 +106,6 @@ Still debugging life and production errors simultaneously.
 # ⚔️ Quote
 
 > "First, solve the problem. Then, write the code."
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=HeyVenom49&color=blueviolet&style=for-the-badge)
