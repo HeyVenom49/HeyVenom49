@@ -99,15 +99,10 @@ Still debugging life and production errors simultaneously.
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: https://github.com/HeyVenom49
 
 ---
 
 # ⚔️ Quote
 
 > "First, solve the problem. Then, write the code."
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
