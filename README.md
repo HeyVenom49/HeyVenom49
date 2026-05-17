@@ -79,6 +79,8 @@ Because modern developers apparently need to know coding, databases, cloud, netw
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyVenom49&layout=compact&theme=tokyonight)
 
+![Snake animation](https://github.com/HeyVenom49/HeyVenom49/blob/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 # 🧩 Fun Fact
