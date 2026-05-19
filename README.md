@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Venom
+# 👋 Hey, I'm Durgesh Pandey
 
 ```txt
 Computer Science Student • Upcoming Developer • Backend Learner
@@ -102,6 +102,7 @@ Still debugging life and production errors simultaneously.
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/HeyVenom49
+- Email: durgeshpandey0831@gmail.com
 
 ---
 
