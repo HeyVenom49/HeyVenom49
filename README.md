@@ -75,11 +75,15 @@ Because modern developers apparently need to know coding, databases, cloud, netw
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HeyVenom49&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyVenom49&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyVenom49&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyVenom49&layout=compact&theme=tokyonight)
-
-![Snake animation](https://github.com/HeyVenom49/HeyVenom49/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HeyVenom49&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/github-contribution-grid-snake-dark.svg" height="180em"/>
+</p>
 
 ---
 
