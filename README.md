@@ -76,20 +76,15 @@ Because modern developers apparently need to know coding, databases, cloud, netw
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeyVenom49&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeyVenom49&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HeyVenom49&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyVenom49&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HeyVenom49&theme=tokyonight&hide_border=true" height="180em"/>
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph.svg">
-</picture>
+  <img width="49%" src="https://streak-stats.demolab.com?user=HeyVenom49&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph-dark.svg"/>
 </p>
 
 ---
