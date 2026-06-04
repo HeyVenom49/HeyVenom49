@@ -82,7 +82,14 @@ Because modern developers apparently need to know coding, databases, cloud, netw
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HeyVenom49&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/github-contribution-grid-snake-dark.svg" height="180em"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/HeyVenom49/HeyVenom49/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
