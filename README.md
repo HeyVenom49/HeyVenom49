@@ -124,8 +124,7 @@ Still debugging life and production errors simultaneously.
 # ⚔️ Quote
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
 </p>
----
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeyVenom49&color=blueviolet&style=for-the-badge)
