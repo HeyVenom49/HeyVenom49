@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Durgesh Pandey
 
 ```txt
-Computer Science Student • Upcoming Developer • Backend Learner
+Computer Science Student • Full-Stack Developer in Progress
+Learning to build scalable applications from frontend to backend.
 Trying to become a better developer one bug at a time.
 ```
 
