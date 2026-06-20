@@ -17,6 +17,7 @@ Trying to become a better developer one bug at a time.
 - 🍥 Anime enthusiast
 - 🧠 Interested in:
   - Backend Development
+  - Frontend Development
   - TypeScript
   - APIs
   - Authentication Systems
